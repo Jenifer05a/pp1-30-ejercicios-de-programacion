@@ -1,1 +1,5 @@
-print("jenifer")
+print("jeni")
+print("estrada")
+print("sanchez")
+print("clase de paradigmas de programacion")
+print("ico-29")
